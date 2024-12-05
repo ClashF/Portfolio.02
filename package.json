@@ -2,7 +2,7 @@
   "name": "portfoliofinal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/ClashF/portfolio.2",
+  "homepage": "https://github.com/ClashF/portfolio.02",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
